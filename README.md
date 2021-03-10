@@ -17,5 +17,5 @@ Link to view the website:
 ## Others :
 * Automated Mail Service through SendGrid API
 * Paypal Payment Gateway
-* SEO Optimizationo
-* Automated Reports generator on stocks using Cron Job
+* SEO Optimization
+* Automated Reports generator on stocks using CronJob
