@@ -3,4 +3,14 @@
 # TrustedFinancialAdvisor
 Link to view the website:
 [TrustedFinancialAdvisor](https://www.trustedfinancialadvisor.org/)
-
+## Languages and Tools :
+* Core PHP
+* Postgresql, DBMS and SQL querying
+* HTML
+* CSS
+* Javascript
+* jQuery
+* XML
+* JSON
+* AJAX
+* Bootstrap etc
