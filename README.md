@@ -13,11 +13,12 @@ Link to view the website:
 * XML
 * JSON
 * AJAX
-* Bootstrap etc
+* Bootstrap
 ## Others :
 * Automated Mail Service through SendGrid API
 * Paypal Payment Gateway
 * SEO Optimization
 * Automated Reports generator on stocks using CronJob
 * Daily News using RSS Feed
+* Google and Facebook Login API
  
