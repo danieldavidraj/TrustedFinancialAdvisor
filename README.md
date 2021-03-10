@@ -14,3 +14,8 @@ Link to view the website:
 * JSON
 * AJAX
 * Bootstrap etc
+## Others :
+* Automated Mail Service through SendGrid API
+* Paypal Payment Gateway
+* SEO Optimizationo
+* Automated Reports generator on stocks using Cron Job
