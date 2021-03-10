@@ -19,3 +19,5 @@ Link to view the website:
 * Paypal Payment Gateway
 * SEO Optimization
 * Automated Reports generator on stocks using CronJob
+* Daily News using RSS Feed
+ 
