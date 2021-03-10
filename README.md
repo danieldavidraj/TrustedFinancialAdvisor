@@ -1,5 +1,5 @@
 # TrustedFinancialAdvisor
 Link to view the website:
 [TrustedFinancialAdvisor](https://www.trustedfinancialadvisor.org/)<br><br>
-![Logo](/images/tinoiq_favicon.ico)
-![Logo](/images/favicon.ico)
+<img src="images/tinoiq_favicon.ico">
+<img src="images/favicon.ico">
